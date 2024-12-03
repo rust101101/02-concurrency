@@ -18,7 +18,7 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 - Github Copilot: 代码提示
 - indent-rainbow: 缩进显示优化
 - Prettier - Code formatter: 代码格式化
-- REST client: REST API 调试
+- REST client: REST API 调试 （类似HTTPie、Postman等工具）
 - rust-analyzer: Rust 语言支持
 - Rust Test lens: Rust 测试支持
 - Rust Test Explorer: Rust 测试概览
